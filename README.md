@@ -1,8 +1,8 @@
-## Greetings from Jan Krag 👋
+# Greetings from Jan Krag 👋
 
-### Git trainer and connoisseur, DevOps Consultant, Cat breeder and much more
+## Git trainer and Connoisseur, DevOps Consultant, Cat breeder and much more
 
-#### Open source work:
+### Open source work:
 
 Public:
 
@@ -14,9 +14,9 @@ Personal:
 * Personal: [GitSlick - The miniature single-file Git based chat client](https://github.com/JKrag/GitSlick)
 * Copenhagen S-train network as a Git graph 🤪
 
-#### Public talks over the years
+### Public talks over the years
 
-In this section I will try to list various talks I ahve done at meetup groups and conferences over the years. As I am starting this list in Oct. 2022, it will probably take some time to reconstruct this, but here  goes the initial brainstorm:
+In this section I will try to list various Dev/IT talks I have done at conferences, meetup groups and a few noteworthy company internal over the years. As I am starting this list in Oct. 2022, it will probably take some time to reconstruct all of it, but here  goes the initial brainstorm:
 
 * July 2013: [Project Coin features in Java 7](https://www.slideshare.net/jankrag/java7-coin) - Probably only internal at my workplace
 * July 2013: [Introduction to the Option Monad in Scala](https://www.slideshare.net/jankrag/introduction-to-option-monad-in-scala) - Copenhagen Scala Meetup Group
@@ -28,6 +28,14 @@ In this section I will try to list various talks I ahve done at meetup groups an
 * Docker 101 - DayOfContainers conference Copenhagen
 * Dec? 2019: Jedi Mind Tricks in Git - TechBBQ startup conference, Copenhagen
 * Dec. 2021: 10 Levels of Git Aliases - Copenhagen DevOps Meetup group (and repeated internally in Eficode at least twice)
+
+On top of the above, I have been teaching cat genetics and related topics in various Danish cat clubs since the late 90's.
+
+### Blog posts etc.
+
+* [An Evening Well Spent With AngularJS and Neo4j](https://blog.xpresso.dk/blog/2014/03/13/an-evening-well-spent-with-angularjs-and-neo4j-part-1/) and [part 2](https://blog.xpresso.dk/blog/2014/03/13/an-evening-well-spent-with-angularjs-and-neo4j-part-2/) - 2014
+* [Git Autostash](https://www.eficode.com/blog/git-autostash) - 2016
+* [Survival of the Fittest - Evolution in the CI Ecosystem](https://www.eficode.com/blog/survival-of-the-fittest) -  2017
 
 <!--
 **JKrag/JKrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
