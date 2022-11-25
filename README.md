@@ -31,6 +31,16 @@ In this section I will try to list various Dev/IT talks I have done at conferenc
 
 On top of the above, I have been teaching cat genetics and related topics in various Danish cat clubs since the late 90's.
 
+### Git training
+
+A noticable part of my job over the past 7 years has been providing professional Git training (and the odd trainings on Jenkins & CI/CD, Docker, Kubernetes and Azure DevOps) to customers.
+In the future, I might add a "road show" list here, on a sub-page, but for now just a few stats as of November 2022:
+
+* Around 130 days worth of Git training
+* These include roughly 50 runs just of "my" 2 day *Mastering Git* training.
+* Delivered on site in at least 6 Countries on 2 continents (Denmark, Sweden, Norway, Finland, Germany & India) 
+* Delivered in 3 languages. (Typically English, Occasionally Danish & on one occasion I did two consequitive trainings in German 😱)
+
 ### Blog posts etc.
 
 * [An Evening Well Spent With AngularJS and Neo4j](https://blog.xpresso.dk/blog/2014/03/13/an-evening-well-spent-with-angularjs-and-neo4j-part-1/) and [part 2](https://blog.xpresso.dk/blog/2014/03/13/an-evening-well-spent-with-angularjs-and-neo4j-part-2/) - 2014
