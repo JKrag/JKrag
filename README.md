@@ -27,13 +27,14 @@ In this section I will try to list various Dev/IT talks I have done at conferenc
 * Feb. 2017: [Jedi Mind Tricks in Git](https://www.slideshare.net/jankrag/jedi-mind-tricks-for-git) - Git Merge conference in Brussels
 * Docker 101 - DayOfContainers conference Copenhagen
 * Dec? 2019: Jedi Mind Tricks in Git - TechBBQ startup conference, Copenhagen
+* Nov. 2020 - Webinar about Git (concepts, features and more) for IDA (Danish Engineers Union) - > 350 participants.
 * Dec. 2021: 10 Levels of Git Aliases - Copenhagen DevOps Meetup group (and repeated internally in Eficode at least twice)
 
 On top of the above, I have been teaching cat genetics and related topics in various Danish cat clubs since the late 90's.
 
 ### Git training
 
-A noticable part of my job over the past 7 years has been providing professional Git training (and the odd trainings on Jenkins & CI/CD, Docker, Kubernetes and Azure DevOps) to customers.
+A noticable part of my job since 2015 has been providing professional Git training (and the odd trainings on Jenkins & CI/CD, Docker, Kubernetes and Azure DevOps) to customers.
 In the future, I might add a "road show" list here, on a sub-page, but for now just a few stats as of November 2022:
 
 * Around 130 days worth of Git training
